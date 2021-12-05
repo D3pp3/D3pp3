@@ -4,7 +4,7 @@
     
     [variable]: link
  -->
- <img src="https://media.giphy.com/media/7GHRDluBmx9O8/giphy.gif" width="800" height="250">
+ [<img src="https://media.giphy.com/media/7GHRDluBmx9O8/giphy.gif" width="800" height="250">][this]
 
  ### Java Developer y Autodidacta
 
@@ -22,3 +22,4 @@ You can click the Preview link to take a look at your changes.
 
 <!-- LINKS -->
 <!-- [website]: https://www.youtube.com/ -->
+[this]: https://github.com/D3pp3/
