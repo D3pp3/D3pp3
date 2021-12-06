@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 Tecnologias:
+<!-- ## 🚀 Tecnologias:
 
 
 [<img align="left" alt="java" width="30px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />][this]
@@ -31,7 +31,11 @@
 
 [<img align="left" alt="angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][this] 
 
----
+<br />
+
+### Contactame:
+
+<img align="left" alt="gmail" width="30px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1638751168~hmac=ca11ed26b89c3d7f3d798b668daaf474"/> -->
 
 <!-- LINKS -->
 <!-- [website]: https://www.youtube.com/ -->
